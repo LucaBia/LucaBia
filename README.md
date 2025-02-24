@@ -3,7 +3,7 @@
 
 * 🌍  I'm based in Milan, Italy
 * 🖥️  See my portfolio at [lucabia.com](http://lucabia.com)
-* 🤝  I'm open to collaborating on Blockchain Projects
+* 🤝  I'm open to collaborating on Blockchain and Web development Projects, 
 
 ### Skills  
 
